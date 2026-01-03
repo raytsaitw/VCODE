@@ -14,4 +14,7 @@
 -   > 調整為 萬聖節 Look
     > 調整為 聖誕節 Look
     > 調整為 新年風格 
-- [002] 
+- [002] Clone parallax-scroll-animation 專案 https://github.com/ramavats/parallax-scroll-animation
+- 實作  --> https://raytsaitw.github.io/parallax-scroll-animation/
+-  > 修改為中問
+   > 加入 2026 字串
